@@ -3,18 +3,17 @@
 
 ## 1. 시간복잡도
 
-*  : 아직 못품
 
-[2003번: 수들의 합 2](https://www.acmicpc.net/problem/2003) 
-[2748번: 피보나치 수 2](https://www.acmicpc.net/problem/2748)
-* [2517번: 달리기](https://www.acmicpc.net/problem/2517)  ☠️☠️☠️
-[1806번: 부분합](https://www.acmicpc.net/problem/1806)
-[2805번: 나무 자르기](https://www.acmicpc.net/problem/2805) ⭐️ **이진탐색의 기본**
-[11003번: 최솟값 찾기](https://www.acmicpc.net/problem/11003) ⭐️ **슬라이딩 윈도우의 기본**
-[2096번: 내려가기](https://www.acmicpc.net/problem/2096)
-[2143번: 두 배열의 합](https://www.acmicpc.net/problem/2143)
-[1072번: 게임](https://www.acmicpc.net/problem/1072)
-[7453번: 합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
+- [2003번: 수들의 합 2](https://www.acmicpc.net/problem/2003)
+- [2748번: 피보나치 수 2](https://www.acmicpc.net/problem/2748)
+- [2517번: 달리기](https://www.acmicpc.net/problem/2517)  ☠️☠️☠️
+- [1806번: 부분합](https://www.acmicpc.net/problem/1806)
+- [2805번: 나무 자르기](https://www.acmicpc.net/problem/2805) ⭐️ **이진탐색의 기본**
+- [11003번: 최솟값 찾기](https://www.acmicpc.net/problem/11003) ⭐️ **슬라이딩 윈도우의 기본**
+- [2096번: 내려가기](https://www.acmicpc.net/problem/2096)
+- [2143번: 두 배열의 합](https://www.acmicpc.net/problem/2143)
+- [1072번: 게임](https://www.acmicpc.net/problem/1072)
+- [7453번: 합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
 * [2842번: 집배원 한상덕](https://www.acmicpc.net/problem/2842)
 
 주요개념 - 투 포인터, 슬라이딩 윈도우, 이분탐색
